@@ -17,4 +17,4 @@ https://www.virustotal.com/gui/home/url
 
 
 
-malicious url-->http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/
+murl-->http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/
